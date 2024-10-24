@@ -1,0 +1,6 @@
+Epoch [1/10], Loss: 1.3802
+Epoch [2/10], Loss: 0.9883
+Epoch [3/10], Loss: 0.8158
+Epoch [4/10], Loss: 0.6953
+Epoch [5/10], Loss: 0.5869
+Epoch [6/10], Loss: 0.4924
